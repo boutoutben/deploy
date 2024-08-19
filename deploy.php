@@ -1,3 +1,5 @@
 <?php
 
-echo "cc";
+    echo "cc";
+
+?>
